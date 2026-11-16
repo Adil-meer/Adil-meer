@@ -165,7 +165,7 @@ My personal portfolio presenting my professional profile, QA focus, development 
 
 **[Explore all public repositories →](https://github.com/adilmeertest-cmyk?tab=repositories)**
 
-## Achievements & Verified Milestones
+## Achievements, Certificates & Verified Milestones
 
 <div align="center">
 
@@ -188,6 +188,116 @@ My personal portfolio presenting my professional profile, QA focus, development 
 | **Full-stack product building** | Developing Veriqraft and Global Help Network across frontend, backend, authentication, and database layers. |
 | **AI application exploration** | Building projects that explore AI-assisted website analysis and conversational interfaces. |
 | **Software Engineering education** | Pursuing a BS Software Engineering degree while developing practical QA and engineering skills. |
+
+
+## Certificates & Recognition
+
+A collection of original certificates and recognition records displayed in my portfolio. Select a certificate image or its compact link to view the full-size original.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Design Prompts for Everyday Work Tasks**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-1.jpeg"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-1.jpeg" width="340" alt="Design Prompts for Everyday Work Tasks — original certificate" /></a>
+
+<sub>Google · Coursera</sub>
+
+<sub>21 November 2025</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-1.jpeg"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Active Learner**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-2.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-2.png" width="340" alt="Active Learner — original certificate" /></a>
+
+<sub>Eazisols</sub>
+
+<sub>Date not shown on certificate</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-2.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Basics of Creativity and Problem Solving**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-3.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-3.png" width="340" alt="Basics of Creativity and Problem Solving — original certificate" /></a>
+
+<sub>UniAthena · Cambridge International Qualifications (UK)</sub>
+
+<sub>2 May 2025</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-3.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Basics of Python**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-4.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-4.png" width="340" alt="Basics of Python — original certificate" /></a>
+
+<sub>UniAthena · Cambridge International Qualifications (UK)</sub>
+
+<sub>2 May 2025</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-4.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Basics of Machine Learning Algorithms**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-5.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-5.png" width="340" alt="Basics of Machine Learning Algorithms — original certificate" /></a>
+
+<sub>UniAthena · Cambridge International Qualifications (UK)</sub>
+
+<sub>4 May 2025</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-5.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Essentials of Data Visualization using MS Excel**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-6.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-6.png" width="340" alt="Essentials of Data Visualization using MS Excel — original certificate" /></a>
+
+<sub>UniAthena · Acacia University Professional Development</sub>
+
+<sub>2 May 2025</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-6.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Master ChatGPT**
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-7.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-7.png" width="340" alt="Master ChatGPT — original certificate" /></a>
+
+<sub>UniAthena</sub>
+
+<sub>2 May 2025</sub>
+
+<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-7.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<sub>Certificate titles and dates are transcribed from the original images. The Eazisols Active Learner certificate does not show an issue date. Original certificate files are hosted in the portfolio repository; no credentials or awards have been fabricated.</sub>
 
 ## Professional QA Lifecycle
 
