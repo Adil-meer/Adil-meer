@@ -15,7 +15,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=adilmeertest-cmyk&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/adilmeertest-cmyk?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/adilmeertest-cmyk?style=for-the-badge&color=f59e0b&label=TOTAL+STARS" alt="GitHub stars" />
 
 </div>
 
@@ -237,7 +236,7 @@ My personal portfolio presenting my professional profile, QA focus, development 
 <br/><br/>
 
 <a href="https://github.com/adilmeertest-cmyk">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=adilmeertest-cmyk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=D7E3F4&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=adilmeertest-cmyk&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=D7E3F4&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/adilmeertest-cmyk?tab=repositories">
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilmeertest-cmyk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=D7E3F4" alt="Top repository languages" />
