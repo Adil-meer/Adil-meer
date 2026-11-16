@@ -126,73 +126,66 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 <div align="center">
 
-<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="https://img.shields.io/badge/Veriqraft-View_Project-0D1117?style=for-the-badge&logo=github" alt="Veriqraft project" /></a>
-<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="https://img.shields.io/badge/Global_Help_Network-View_Project-0D1117?style=for-the-badge&logo=github" alt="Global Help Network project" /></a>
-<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="https://img.shields.io/badge/AI_Website_Analyzer_Pro-View_Project-0D1117?style=for-the-badge&logo=github" alt="AI Website Analyzer Pro project" /></a>
-<a href="https://github.com/adilmeertest-cmyk/AI"><img src="https://img.shields.io/badge/Lattice_AI-View_Project-0D1117?style=for-the-badge&logo=github" alt="Lattice AI project" /></a>
+<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="assets/projects/veriqraft.svg" width="100%" alt="Veriqraft — project preview" /></a>
+
+<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Veriqraft" /></a>
+
+<img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/vite-111827?style=flat-square&logo=vite&logoColor=white" alt="vite" /> <img src="https://img.shields.io/badge/supabase-111827?style=flat-square&logo=supabase&logoColor=white" alt="supabase" /> <img src="https://img.shields.io/badge/postgresql-111827?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
+
+<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="assets/projects/global-help-network.svg" width="100%" alt="Global Help Network — project preview" /></a>
+
+<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Global Help Network" /></a>
+
+<img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/tailwindcss-111827?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwindcss" /> <img src="https://img.shields.io/badge/fastapi-111827?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" /> <img src="https://img.shields.io/badge/postgresql-111827?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
+
+<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="assets/projects/ai-website-analyzer.svg" width="100%" alt="AI Website Analyzer Pro — project preview" /></a>
+
+<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Website Analyzer Pro" /></a>
+
+<img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/vite-111827?style=flat-square&logo=vite&logoColor=white" alt="vite" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/express-111827?style=flat-square&logo=express&logoColor=white" alt="express" />
+
+<a href="https://github.com/adilmeertest-cmyk/AI"><img src="assets/projects/lattice-ai.svg" width="100%" alt="Lattice AI — project preview" /></a>
+
+<a href="https://github.com/adilmeertest-cmyk/AI"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Lattice AI" /></a>
+
+<img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/python-111827?style=flat-square&logo=python&logoColor=white" alt="python" /> <img src="https://img.shields.io/badge/supabase-111827?style=flat-square&logo=supabase&logoColor=white" alt="supabase" /> <img src="https://img.shields.io/badge/postgresql-111827?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
+
+<a href="https://m-adil-one.vercel.app/"><img src="assets/projects/personal-portfolio.svg" width="100%" alt="Personal Portfolio — project preview" /></a>
+
+<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Personal Portfolio" /></a>
+
+<img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/vite-111827?style=flat-square&logo=vite&logoColor=white" alt="vite" /> <img src="https://img.shields.io/badge/tailwindcss-111827?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwindcss" /> <img src="https://img.shields.io/badge/vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="vercel" />
+
+<a href="https://github.com/adilmeertest-cmyk?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-Explore_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
 
 </div>
 
-### [Veriqraft](https://github.com/adilmeertest-cmyk/veriqraft)
-
-A learning platform built with React 19, TypeScript, Vite, and Supabase. Implemented scope includes authentication, profiles, courses, enrollment, lesson progress, server-graded assessments, certificate issuance and lookup, and inquiry submission.
-
-<sub><img src="https://img.shields.io/github/stars/adilmeertest-cmyk/veriqraft?style=social" alt="Veriqraft stars" /> React 19 · TypeScript · Vite · Supabase · PostgreSQL</sub>
-
-### [Global Help Network](https://github.com/adilmeertest-cmyk/Global-Help-Network)
-
-A community help platform built around an ASK → HELP → SOLVE → TRUST workflow. The repository documents a React/TypeScript frontend, FastAPI backend, PostgreSQL database, authentication, requests, answers, messaging, notifications, and moderation flows.
-
-<sub><img src="https://img.shields.io/github/stars/adilmeertest-cmyk/Global-Help-Network?style=social" alt="Global Help Network stars" /> React · TypeScript · Tailwind CSS · FastAPI · PostgreSQL</sub>
-
-### [AI Website Analyzer Pro](https://github.com/adilmeertest-cmyk/Asset-Manager-1)
-
-A website auditing application concept that brings together SEO checks, Lighthouse / PageSpeed metrics, accessibility, performance, broken-resource checks, and AI-assisted recommendations.
-
-<sub><img src="https://img.shields.io/github/stars/adilmeertest-cmyk/Asset-Manager-1?style=social" alt="AI Website Analyzer Pro stars" /> React · Vite · Tailwind CSS · Express · TypeScript · Google PageSpeed Insights · Claude integration</sub>
-
-### [Lattice AI](https://github.com/adilmeertest-cmyk/AI)
-
-An AI chat workspace with a React/TypeScript frontend, Python API, Supabase authentication, and user-isolated conversation history with row-level security.
-
-<sub><img src="https://img.shields.io/github/stars/adilmeertest-cmyk/AI?style=social" alt="Lattice AI stars" /> React · TypeScript · Vite · Python · Supabase · PostgreSQL</sub>
-
-### [Personal Portfolio](https://m-adil-one.vercel.app/)
-
-My personal portfolio presenting my professional profile, QA focus, development interests, and selected work.
-
-<sub>React · TypeScript · TanStack Start · Vite · Tailwind CSS · Vercel</sub>
-
-**[Explore all public repositories →](https://github.com/adilmeertest-cmyk?tab=repositories)**
-
-## Achievements, Certificates & Verified Milestones
+## Achievements & Milestones
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MILESTONE-Practical_QA_Work-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Practical QA work" />
-<img src="https://img.shields.io/badge/MILESTONE-Portfolio_Deployed-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio deployed" />
-<img src="https://img.shields.io/badge/MILESTONE-Multiple_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Multiple projects" />
-<img src="https://img.shields.io/badge/MILESTONE-Continuous_Learning-475569?style=for-the-badge&logo=bookstack&logoColor=white" alt="Continuous learning" />
+<img src="https://img.shields.io/badge/7-Certificates_&_Recognition-0F766E?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Seven certificates" />
+<img src="https://img.shields.io/badge/QA-Web_&_Mobile_Testing-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Web and mobile QA" />
+<img src="https://img.shields.io/badge/API-Postman_Practice-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API testing practice" />
+<img src="https://img.shields.io/badge/PROJECTS-Full_Stack_&_AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Full-stack and AI projects" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Live_on_Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio deployed" />
+<img src="https://img.shields.io/badge/EDUCATION-BS_Software_Engineering-475569?style=for-the-badge&logo=academia&logoColor=white" alt="Software Engineering education" />
 
 </div>
 
-| Milestone | Evidence / focus |
-|---|---|
-| **Hands-on QA experience** | Practical testing of web, mobile, and admin-based application workflows. |
-| **End-to-end workflow validation** | Testing complete user journeys, role-based access, forms, documents, and data flows. |
-| **Cross-platform quality checks** | Validating responsive layouts and application behaviour across browser and mobile environments. |
-| **Structured defect reporting** | Writing reproducible steps, communicating issues, retesting fixes, and checking regressions. |
-| **API testing practice** | Building practical REST API validation skills using Postman and JSON response inspection. |
-| **Database validation learning** | Developing SQL/MySQL and PostgreSQL skills for application data verification. |
-| **Personal portfolio published** | Maintaining a live portfolio deployed through Vercel. |
-| **Full-stack product building** | Developing Veriqraft and Global Help Network across frontend, backend, authentication, and database layers. |
-| **AI application exploration** | Building projects that explore AI-assisted website analysis and conversational interfaces. |
-| **Software Engineering education** | Pursuing a BS Software Engineering degree while developing practical QA and engineering skills. |
+- Hands-on QA across web, mobile, and admin workflows.
+- End-to-end validation of user journeys, permissions, forms, documents, and data flows.
+- Smoke, sanity, functional, exploratory, regression, and retesting practice.
+- Reproducible bug reporting and developer-facing verification.
+- API testing with Postman and SQL/database validation learning.
+- Built and maintained full-stack, AI-focused, and portfolio projects.
+- Continuous learning in Playwright automation, Python, SQL, performance testing, and CI/CD.
+- Pursuing a BS in Software Engineering.
 
 
 ## Certificates & Recognition
 
-A collection of original certificates and recognition records displayed in my portfolio. Select a certificate image or its compact link to view the full-size original.
+<div align="center">
 
 <table>
 <tr>
@@ -200,104 +193,101 @@ A collection of original certificates and recognition records displayed in my po
 
 **Design Prompts for Everyday Work Tasks**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-1.jpeg"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-1.jpeg" width="340" alt="Design Prompts for Everyday Work Tasks — original certificate" /></a>
+<a href="assets/certificates/cert-1.jpeg"><img src="assets/certificates/cert-1.jpeg" width="100%" alt="Design Prompts for Everyday Work Tasks certificate" /></a>
 
-<sub>Google · Coursera</sub>
+<sub>Google · Coursera · 21 November 2025</sub>
 
-<sub>21 November 2025</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-1.jpeg"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-1.jpeg"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 **Active Learner**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-2.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-2.png" width="340" alt="Active Learner — original certificate" /></a>
+<a href="assets/certificates/cert-2.png"><img src="assets/certificates/cert-2.png" width="100%" alt="Active Learner certificate" /></a>
 
-<sub>Eazisols</sub>
+<sub>Eazisols · Date not shown</sub>
 
-<sub>Date not shown on certificate</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-2.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-2.png"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" align="center" valign="top">
 
 **Basics of Creativity and Problem Solving**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-3.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-3.png" width="340" alt="Basics of Creativity and Problem Solving — original certificate" /></a>
+<a href="assets/certificates/cert-3.png"><img src="assets/certificates/cert-3.png" width="100%" alt="Basics of Creativity and Problem Solving certificate" /></a>
 
-<sub>UniAthena · Cambridge International Qualifications (UK)</sub>
+<sub>UniAthena · Cambridge International Qualifications · 2 May 2025</sub>
 
-<sub>2 May 2025</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-3.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-3.png"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 **Basics of Python**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-4.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-4.png" width="340" alt="Basics of Python — original certificate" /></a>
+<a href="assets/certificates/cert-4.png"><img src="assets/certificates/cert-4.png" width="100%" alt="Basics of Python certificate" /></a>
 
-<sub>UniAthena · Cambridge International Qualifications (UK)</sub>
+<sub>UniAthena · Cambridge International Qualifications · 2 May 2025</sub>
 
-<sub>2 May 2025</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-4.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-4.png"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" align="center" valign="top">
 
 **Basics of Machine Learning Algorithms**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-5.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-5.png" width="340" alt="Basics of Machine Learning Algorithms — original certificate" /></a>
+<a href="assets/certificates/cert-5.png"><img src="assets/certificates/cert-5.png" width="100%" alt="Basics of Machine Learning Algorithms certificate" /></a>
 
-<sub>UniAthena · Cambridge International Qualifications (UK)</sub>
+<sub>UniAthena · Cambridge International Qualifications · 4 May 2025</sub>
 
-<sub>4 May 2025</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-5.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-5.png"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 **Essentials of Data Visualization using MS Excel**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-6.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-6.png" width="340" alt="Essentials of Data Visualization using MS Excel — original certificate" /></a>
+<a href="assets/certificates/cert-6.png"><img src="assets/certificates/cert-6.png" width="100%" alt="Essentials of Data Visualization using MS Excel certificate" /></a>
 
-<sub>UniAthena · Acacia University Professional Development</sub>
+<sub>UniAthena · Acacia University · 2 May 2025</sub>
 
-<sub>2 May 2025</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-6.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-6.png"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" align="center" valign="top">
 
 **Master ChatGPT**
 
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-7.png"><img src="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-7.png" width="340" alt="Master ChatGPT — original certificate" /></a>
+<a href="assets/certificates/cert-7.png"><img src="assets/certificates/cert-7.png" width="100%" alt="Master ChatGPT certificate" /></a>
 
-<sub>UniAthena</sub>
+<sub>UniAthena · 2 May 2025</sub>
 
-<sub>2 May 2025</sub>
-
-<a href="https://raw.githubusercontent.com/adilmeertest-cmyk/AdilMeer-portfolio/main/public/certificates/cert-7.png"><img src="https://img.shields.io/badge/View_Certificate-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
+<a href="assets/certificates/cert-7.png"><img src="https://img.shields.io/badge/VIEW_CERTIFICATE-Open_Original-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="View original certificate" /></a>
 
 </td>
 <td width="50%"></td>
 </tr>
 </table>
 
-<sub>Certificate titles and dates are transcribed from the original images. The Eazisols Active Learner certificate does not show an issue date. Original certificate files are hosted in the portfolio repository; no credentials or awards have been fabricated.</sub>
+</div>
+
+<sub>Original certificate files are stored in this public profile repository, so image rendering does not depend on the portfolio repository's visibility.</sub>
 
 ## Professional QA Lifecycle
 
