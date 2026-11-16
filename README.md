@@ -1,9 +1,9 @@
 <!-- Muhammad Adil | Software QA Engineer & Developer -->
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Muhammad Adil — Software Quality Assurance Engineer" />
+<img src="assets/profile-banner.svg" width="680" alt="Muhammad Adil — Software Quality Assurance Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Software+Quality+Assurance+Engineer;Manual+QA+%7C+Web+%26+Mobile+Testing;API+Testing+%7C+SQL+Validation;React+%26+TypeScript+Projects;Python+%7C+FastAPI+%7C+PostgreSQL;Playwright+Automation+%E2%80%94+Learning" alt="Professional headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=620&height=36&lines=Software+Quality+Assurance+Engineer;Manual+QA+%7C+Web+%26+Mobile+Testing;API+Testing+%7C+SQL+Validation;React+%26+TypeScript+Projects;Python+%7C+FastAPI+%7C+PostgreSQL;Playwright+Automation+%E2%80%94+Learning" alt="Professional headline" />
 
 <br/>
 
@@ -126,33 +126,33 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 <div align="center">
 
-<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="assets/projects/veriqraft.svg" width="100%" alt="Veriqraft — project preview" /></a>
+<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="assets/projects/veriqraft.svg" width="320" alt="Veriqraft — project preview" /></a>
 
-<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Veriqraft" /></a>
+<a href="https://github.com/adilmeertest-cmyk/veriqraft"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" alt="Open Veriqraft" /></a>
 
 <img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/vite-111827?style=flat-square&logo=vite&logoColor=white" alt="vite" /> <img src="https://img.shields.io/badge/supabase-111827?style=flat-square&logo=supabase&logoColor=white" alt="supabase" /> <img src="https://img.shields.io/badge/postgresql-111827?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
 
-<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="assets/projects/global-help-network.svg" width="100%" alt="Global Help Network — project preview" /></a>
+<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="assets/projects/global-help-network.svg" width="320" alt="Global Help Network — project preview" /></a>
 
-<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Global Help Network" /></a>
+<a href="https://github.com/adilmeertest-cmyk/Global-Help-Network"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" alt="Open Global Help Network" /></a>
 
 <img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/tailwindcss-111827?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwindcss" /> <img src="https://img.shields.io/badge/fastapi-111827?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" /> <img src="https://img.shields.io/badge/postgresql-111827?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
 
-<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="assets/projects/ai-website-analyzer.svg" width="100%" alt="AI Website Analyzer Pro — project preview" /></a>
+<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="assets/projects/ai-website-analyzer.svg" width="320" alt="AI Website Analyzer Pro — project preview" /></a>
 
-<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Website Analyzer Pro" /></a>
+<a href="https://github.com/adilmeertest-cmyk/Asset-Manager-1"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" alt="Open AI Website Analyzer Pro" /></a>
 
 <img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/vite-111827?style=flat-square&logo=vite&logoColor=white" alt="vite" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/express-111827?style=flat-square&logo=express&logoColor=white" alt="express" />
 
-<a href="https://github.com/adilmeertest-cmyk/AI"><img src="assets/projects/lattice-ai.svg" width="100%" alt="Lattice AI — project preview" /></a>
+<a href="https://github.com/adilmeertest-cmyk/AI"><img src="assets/projects/lattice-ai.svg" width="320" alt="Lattice AI — project preview" /></a>
 
-<a href="https://github.com/adilmeertest-cmyk/AI"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Lattice AI" /></a>
+<a href="https://github.com/adilmeertest-cmyk/AI"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" alt="Open Lattice AI" /></a>
 
 <img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/python-111827?style=flat-square&logo=python&logoColor=white" alt="python" /> <img src="https://img.shields.io/badge/supabase-111827?style=flat-square&logo=supabase&logoColor=white" alt="supabase" /> <img src="https://img.shields.io/badge/postgresql-111827?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
 
-<a href="https://m-adil-one.vercel.app/"><img src="assets/projects/personal-portfolio.svg" width="100%" alt="Personal Portfolio — project preview" /></a>
+<a href="https://m-adil-one.vercel.app/"><img src="assets/projects/personal-portfolio.svg" width="320" alt="Personal Portfolio — project preview" /></a>
 
-<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Personal Portfolio" /></a>
+<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PROJECT-View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" alt="Open Personal Portfolio" /></a>
 
 <img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=white" alt="react" /> <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> <img src="https://img.shields.io/badge/vite-111827?style=flat-square&logo=vite&logoColor=white" alt="vite" /> <img src="https://img.shields.io/badge/tailwindcss-111827?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwindcss" /> <img src="https://img.shields.io/badge/vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="vercel" />
 
@@ -193,7 +193,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Design Prompts for Everyday Work Tasks**
 
-<a href="assets/certificates/cert-1.jpeg"><img src="assets/certificates/cert-1.jpeg" width="100%" alt="Design Prompts for Everyday Work Tasks certificate" /></a>
+<a href="assets/certificates/cert-1.jpeg"><img src="assets/certificates/cert-1.jpeg" width="245" alt="Design Prompts for Everyday Work Tasks certificate" /></a>
 
 <sub>Google · Coursera · 21 November 2025</sub>
 
@@ -204,7 +204,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Active Learner**
 
-<a href="assets/certificates/cert-2.png"><img src="assets/certificates/cert-2.png" width="100%" alt="Active Learner certificate" /></a>
+<a href="assets/certificates/cert-2.png"><img src="assets/certificates/cert-2.png" width="245" alt="Active Learner certificate" /></a>
 
 <sub>Eazisols · Date not shown</sub>
 
@@ -220,7 +220,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Basics of Creativity and Problem Solving**
 
-<a href="assets/certificates/cert-3.png"><img src="assets/certificates/cert-3.png" width="100%" alt="Basics of Creativity and Problem Solving certificate" /></a>
+<a href="assets/certificates/cert-3.png"><img src="assets/certificates/cert-3.png" width="245" alt="Basics of Creativity and Problem Solving certificate" /></a>
 
 <sub>UniAthena · Cambridge International Qualifications · 2 May 2025</sub>
 
@@ -231,7 +231,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Basics of Python**
 
-<a href="assets/certificates/cert-4.png"><img src="assets/certificates/cert-4.png" width="100%" alt="Basics of Python certificate" /></a>
+<a href="assets/certificates/cert-4.png"><img src="assets/certificates/cert-4.png" width="245" alt="Basics of Python certificate" /></a>
 
 <sub>UniAthena · Cambridge International Qualifications · 2 May 2025</sub>
 
@@ -247,7 +247,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Basics of Machine Learning Algorithms**
 
-<a href="assets/certificates/cert-5.png"><img src="assets/certificates/cert-5.png" width="100%" alt="Basics of Machine Learning Algorithms certificate" /></a>
+<a href="assets/certificates/cert-5.png"><img src="assets/certificates/cert-5.png" width="245" alt="Basics of Machine Learning Algorithms certificate" /></a>
 
 <sub>UniAthena · Cambridge International Qualifications · 4 May 2025</sub>
 
@@ -258,7 +258,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Essentials of Data Visualization using MS Excel**
 
-<a href="assets/certificates/cert-6.png"><img src="assets/certificates/cert-6.png" width="100%" alt="Essentials of Data Visualization using MS Excel certificate" /></a>
+<a href="assets/certificates/cert-6.png"><img src="assets/certificates/cert-6.png" width="245" alt="Essentials of Data Visualization using MS Excel certificate" /></a>
 
 <sub>UniAthena · Acacia University · 2 May 2025</sub>
 
@@ -274,7 +274,7 @@ Alongside QA, I build and explore applications with React, TypeScript, Vite, Tai
 
 **Master ChatGPT**
 
-<a href="assets/certificates/cert-7.png"><img src="assets/certificates/cert-7.png" width="100%" alt="Master ChatGPT certificate" /></a>
+<a href="assets/certificates/cert-7.png"><img src="assets/certificates/cert-7.png" width="245" alt="Master ChatGPT certificate" /></a>
 
 <sub>UniAthena · 2 May 2025</sub>
 
